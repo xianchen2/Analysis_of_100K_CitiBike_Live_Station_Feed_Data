@@ -4,6 +4,7 @@ Data Source: https://data.cityofnewyork.us/NYC-BigApps/Citi-Bike-Live-Station-Fe
 
 Number of Data: 104,832 
 Number of Station: 936
+
 To Run:
 ```
 docker-compose up -d
