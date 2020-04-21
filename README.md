@@ -1,9 +1,5 @@
 # Analysis of Citi Bike Live Station Feed
 
-
-![ScreenShot](https://github.com/xianchen2/citi_bike_live_station_fed/blob/master/Kiban-dashboard.png)
-
-
 **To Run:**
 ```
 docker-compose up -d
@@ -18,6 +14,8 @@ Shutting off:
 ```
 docker-compose down
 ```
+
+![ScreenShot](https://github.com/xianchen2/citi_bike_live_station_fed/blob/master/Kiban-dashboard.png)
 
 Data Source: https://data.cityofnewyork.us/NYC-BigApps/Citi-Bike-Live-Station-Feed-JSON-/p94q-8hxh 
 
