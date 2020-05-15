@@ -1,5 +1,7 @@
 # Analysis of Citi Bike Live Station Feed Data
 
+Leverage docker-compose to spin up an ElasticSearch+Kibana service, load all the data into ElasticSearch, and visualize/analyze with Kibana.
+
 **To Run:**
 ```
 docker-compose up -d
@@ -20,6 +22,5 @@ docker-compose down
 Data Source: https://data.cityofnewyork.us/NYC-BigApps/Citi-Bike-Live-Station-Feed-JSON-/p94q-8hxh 
 
 Number of Data: 104,832  
-Number of Stations: 936
 
 
